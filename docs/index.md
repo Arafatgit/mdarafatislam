@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Arafatgit/mdarafatislam/blob/37bd57c82996e309d6ab0f0df1794dd3a0aa1295/PhD_Application_ARAFAT%20ISLAM.pdf) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub]() to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
